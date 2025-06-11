@@ -1,4 +1,4 @@
-# Smart PDF Combiner
+# Smart PDF Printer
 
 **📄 From Manual Madness to One-Click PDFs: A Smarter Way to Handle Bulk Document Printing**
 
